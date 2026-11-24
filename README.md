@@ -1,4 +1,4 @@
-# MySafeSpace — a calm, private space between visits
+# MySafeSpace; a calm, private space between visits
 
 **Phase 1: iOS patient app** for a Polish outpatient mental health clinic (*poradnia zdrowia psychicznego*). A portfolio build: a fully clickable SwiftUI app on mock data, designed to look and behave like a real, safe, legally aware product, with an architecture the production build can reuse.
 
