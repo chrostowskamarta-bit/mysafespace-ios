@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Merged with the generated Info.plist (GENERATE_INFOPLIST_FILE = YES). -->
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>During an online visit, your clinician needs to know where you are right now so help can reach you in an emergency. Your location is used only for this check.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Record voice notes for your day. Your voice is turned into text on this iPhone and the recording is never saved.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Voice notes are turned into text on this iPhone only. Nothing you say is sent anywhere.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Use Face ID to keep your journal and messages private.</string>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemType</key>
+			<string>com.mysafespace.patient.crisis</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>I need help now</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>Crisis support numbers</string>
+			<key>UIApplicationShortcutItemIconSymbolName</key>
+			<string>lifepreserver</string>
+		</dict>
+	</array>
+</dict>
+</plist>
